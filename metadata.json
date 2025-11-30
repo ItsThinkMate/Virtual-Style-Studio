@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Style Studio",
+  "description": "A privacy-first, client-side virtual try-on studio. Upload your photos and clothing items to visualize outfits without using AI or external APIs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
